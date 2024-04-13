@@ -1,0 +1,83 @@
+            .grid{
+                width: 1200px;
+                display: grid;   
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+                justify-content: center;
+                
+    
+             }
+
+            .info{
+                font-weight:bold;
+            }
+
+            .z1{
+                align-items: ;
+            }
+
+            .p1{
+                color: black;
+                width: 250px;
+                height: 600px;
+                font-size: 50px;
+                background-position:-880px -120px;
+                border: 1px solid;
+                box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+                align-items: center;
+                margin-top: 10px;
+                padding-top: 0;
+                margin-right: 20px;
+                margin-left: 20px;
+             }
+
+            .p2{
+                color: black;
+                width: 250px;
+                height: 600px;
+                font-size: 50px;
+                background-position:-930px -260px;
+                border: 1px solid;
+                box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+                align-items: center;
+                margin-top: 10px;
+                padding-top: 0;
+                margin-right: 20px;
+                margin-left: 20px;
+            }
+
+            .p3{
+                color: black;
+                width: 250px;
+                height: 600px;
+                font-size: 50px;
+                background-position:-400px 30px;
+                border: 1px solid;
+                box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+                align-items: center;
+                margin-top: 10px;
+                padding-top: 0;
+                margin-right: 20px;
+                margin-left: 20px;
+            }
+
+            .p4{
+                color: black;
+                width: 250px;
+                height: 600px;
+                font-size: 50px;
+                background-position:-390px 7px;
+                border: 1px solid;
+                box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+                align-items: center;
+                margin-top: 10px;
+                padding-top: 0;
+                margin-right: 20px;
+                margin-left: 20px;
+            }
+
+            .p1,.p2,.p3,.p4{
+                background-color: black;
+                color: white;
+                font-family: 'Times New Roman', Times, serif;
+                padding-left: 20px;
+            }
