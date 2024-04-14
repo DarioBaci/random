@@ -1,0 +1,30 @@
+               .s1, .s2, .s3, .s4{
+                    width: 150px;
+                    border-radius: 5px;
+                }
+
+                .z1{
+                    width: 20px;
+                }
+
+                .z2{
+                    color: rgb(26, 26, 27);
+                    font-family: roboto;
+                    font-weight:700;
+                    margin-left: 5px;
+                }
+
+                .b1{
+                    display: flex;
+                    align-items: center;
+                    border-bottom: 1px black solid;
+                    margin: 0px 10px 10px 10px;
+                    padding: 10px;
+                    
+                }
+
+                .main{
+                    margin: 0px  50px 0px 50px;
+                }
+               
+           
